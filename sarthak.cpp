@@ -13,5 +13,6 @@ int main(void) {
     
     cout<< sizeof(derived);
     
+    
     return 0;
 }
